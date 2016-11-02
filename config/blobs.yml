@@ -1,5 +1,5 @@
 ---
-dotnet-core-buildpack/dotnet-core_buildpack-cached-v1.0.3.zip:
-  object_id: 38f23769-75d8-466f-ac95-b3b3c79a8174
-  sha: 1139a0e2c305bcfdbffe669e01c41fd2bab2671a
-  size: 122911094
+dotnet-core-buildpack/dotnet-core_buildpack-cached-v1.0.4.zip:
+  object_id: 610a3bc8-22c1-452b-a16e-00d6dee77121
+  sha: 11e1f87a10f55ec5f3faa7a0c694687aa164824e
+  size: 177084124
