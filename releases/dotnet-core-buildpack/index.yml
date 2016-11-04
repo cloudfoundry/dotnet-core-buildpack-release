@@ -1,7 +1,5 @@
 ---
 builds:
-  b13ad233-0d54-402e-8305-ba28e84fbba7:
-    version: v1.0.3
   2224c034-2088-4c04-be12-67847daef7a8:
     version: 1.0.4
 format-version: '2'
