@@ -18,4 +18,6 @@ builds:
     version: 1.0.11
   2092e511-cc3a-4561-9c3b-b181e9849ab5:
     version: 1.0.12
+  cbf0680b-118a-4504-b7c4-7e502ec17ee4:
+    version: 1.0.13
 format-version: '2'
