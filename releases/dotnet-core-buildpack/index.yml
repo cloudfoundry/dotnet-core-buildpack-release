@@ -24,4 +24,6 @@ builds:
     version: 1.0.15
   dac3279c-4f89-485c-8817-475bb2870bde:
     version: 1.0.18
+  1d1b7584-c6b2-4527-9f55-4faee52699b4:
+    version: 1.0.19
 format-version: '2'
