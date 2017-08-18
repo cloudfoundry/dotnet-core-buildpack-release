@@ -34,4 +34,6 @@ builds:
     version: 1.0.22
   a08b18ee-9fe9-4129-b92c-4d1ee20f7b02:
     version: 1.0.23
+  4288d359-eaad-4048-97df-5206bfd4f721:
+    version: 1.0.24
 format-version: '2'
