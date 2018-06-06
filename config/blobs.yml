@@ -1,4 +1,4 @@
-dotnet-core-buildpack/dotnet-core-buildpack-v2.0.6.zip:
-  size: 4048787
-  object_id: 679fc65b-e223-407f-7a2d-80e312523e17
-  sha: 78e666f06e45149b962c6ae35b8288a2824340b4
+dotnet-core-buildpack/dotnet-core-buildpack-v2.0.7.zip:
+  size: 4051103
+  object_id: 4d4103fc-8656-4b31-5d58-949df77ba5ce
+  sha: 10c31fd3ad6e3daa60e8dd9178d5e3306469499f
