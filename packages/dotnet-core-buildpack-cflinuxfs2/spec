@@ -1,0 +1,4 @@
+---
+name: dotnet-core-buildpack-cflinuxfs2
+files:
+- dotnet-core-buildpack/dotnet-core?buildpack-cflinuxfs2-v*.zip
