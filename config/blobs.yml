@@ -1,3 +1,4 @@
-dotnet-core-buildpack/dotnet-core_buildpack-cflinuxfs3-v2.3.8.zip:
-  size: 5726583
-  sha: sha256:0fdc3d5fe1dd504b4088b017a950de622285b6e2b069d61f3fac12a7ed38931c
+dotnet-core-buildpack/dotnet-core_buildpack-cflinuxfs3-v2.3.9.zip:
+  size: 5726630
+  object_id: e5b8b0b9-e32a-42bc-5410-e5729d4db78e
+  sha: sha256:f84d46df7c291a05ff2c2d16367533d49bbbc1ae7fb39b4da3e02a40fa688c38
