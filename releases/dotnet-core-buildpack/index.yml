@@ -113,6 +113,8 @@ builds:
     version: 2.3.14
   f92f88cd-6f0c-4c27-7d7a-7c101aa807f8:
     version: 2.3.11
+  fec005a8-e835-414d-4e21-856c30fa70ca:
+    version: 2.3.22
   ff072278-c347-45ca-4526-30c1a38485f1:
     version: 2.0.7
 format-version: "2"
