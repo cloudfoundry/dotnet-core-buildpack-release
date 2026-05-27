@@ -3,6 +3,7 @@ name: dotnet-core-buildpack
 templates: {}
 
 packages:
+- dotnet-core-buildpack-cflinuxfs5
 - dotnet-core-buildpack-cflinuxfs4
 
 properties: {}
