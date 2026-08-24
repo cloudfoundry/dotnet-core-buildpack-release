@@ -1,0 +1,27 @@
+name: dotnet-core-buildpack
+version: 2.4.52
+commit_hash: fc3d4ca
+uncommitted_changes: false
+jobs:
+- name: dotnet-core-buildpack
+  version: 6d04b20c750146c54a7ee5d21de4be5bea00b70686c45a58d40a2966d8ef44df
+  fingerprint: 6d04b20c750146c54a7ee5d21de4be5bea00b70686c45a58d40a2966d8ef44df
+  sha1: sha256:c9786668dd982c17852f9c5d3b17480215fe20b6688bd089d281a7a3a1743e89
+  packages:
+  - dotnet-core-buildpack-cflinuxfs5
+  - dotnet-core-buildpack-cflinuxfs4
+packages:
+- name: dotnet-core-buildpack-cflinuxfs4
+  version: 239c98a5a777a648a78416aabd8bffd73e980374f205e938a922a2e69dcafc38
+  fingerprint: 239c98a5a777a648a78416aabd8bffd73e980374f205e938a922a2e69dcafc38
+  sha1: sha256:e00c57e553cc590a86395a24c567f618f7480a7e728ca6abb51f5dddc8c6a0b2
+  dependencies: []
+- name: dotnet-core-buildpack-cflinuxfs5
+  version: 6d1bfcd976971fa2a9f68b0534d9a672dfde598fca1b4ecf5d3dccd87e4bc856
+  fingerprint: 6d1bfcd976971fa2a9f68b0534d9a672dfde598fca1b4ecf5d3dccd87e4bc856
+  sha1: sha256:4a8846a526e6777ea3b1a98fcee738fb41e6c2664982cd45208b23c4f2190f3d
+  dependencies: []
+license:
+  version: 1dfc9384da0b01d8ea6ce3e94311127dfc657c6400f9294a20e2153be7bc6af5
+  fingerprint: 1dfc9384da0b01d8ea6ce3e94311127dfc657c6400f9294a20e2153be7bc6af5
+  sha1: sha256:7e82608c2f743eb08fda30fb93a02028c9adcd49448009729fdb6db2d897d568
